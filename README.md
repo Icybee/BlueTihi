@@ -1,4 +1,4 @@
-# BlueTihi [![Build Status](https://secure.travis-ci.org/Icybee/BlueTihi.svg?branch=2.1)](http://travis-ci.org/Icybee/BlueTihi)
+# BlueTihi [![Build Status](https://secure.travis-ci.org/Icybee/BlueTihi.svg?branch=master)](http://travis-ci.org/Icybee/BlueTihi)
 
 ----------
 
@@ -64,7 +64,7 @@ clean the directory with the `make clean` command.
 
 The package is continuously tested by [Travis CI](http://about.travis-ci.org/).
 
-[![Build Status](https://secure.travis-ci.org/Icybee/BlueTihi.svg?branch=2.1)](http://travis-ci.org/Icybee/BlueTihi)
+[![Build Status](https://secure.travis-ci.org/Icybee/BlueTihi.svg?branch=master)](http://travis-ci.org/Icybee/BlueTihi)
 
 
 
