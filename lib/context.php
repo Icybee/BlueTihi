@@ -21,7 +21,7 @@ class Context implements \ArrayAccess, \IteratorAggregate
 
 	public function offsetExists($offset)
 	{
-		return isset($this->values[$offset]);
+		return array_key_exists($offset, $this->values);
 	}
 
 	/*
